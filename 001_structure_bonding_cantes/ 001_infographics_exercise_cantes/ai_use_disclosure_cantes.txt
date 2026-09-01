@@ -1,0 +1,31 @@
+====================================================
+AI USE DISCLOSURE 
+====================================================
+Course: CHEM 13 (Lecture)
+Assignment: Three Organic Compound Infographics
+Student Name: Alexa Angela L. Cantes
+
+----------------------------------------------------
+1. AI TOOL USED
+----------------------------------------------------
+Tool Name: ChatGPT (OpenAI)
+
+----------------------------------------------------
+2. SPECIFIC APPLICATIONS AND WORKFLOW
+----------------------------------------------------
+I utilized ChatGPT as a learning, brainstorming, and editing support tool in full alignment with the CHEM 13 syllabus parameters. The AI was used for the following tasks:
+
+- Brainstorming Options: I requested a list of unique, intriguing, and highly visual organic compounds. From the generated suggestions, I selected my final unique trio: Capsaicin, Geosmin, and Indigo.
+
+- Structural Design: I asked ChatGPT to help plan a graphic design outline tailored to the specific rubric layout.
+
+- Editing and Information Density Management: To ensure my infographic panels remained readable, clear, and uncrowded, I prompted ChatGPT to compress, summarize, and format technical chemistry records into concise bullet points ready for graphic layout tool boxes.
+
+----------------------------------------------------
+3. INDEPENDENT VERIFICATION & ETHICAL COMPLIANCE
+----------------------------------------------------
+As required by assignment policies, I independently evaluated all physical properties, IUPAC definitions, structural identities, and chemical engineering connections against trusted primary literature databases, including the National Center for Biotechnology Information (NCBI PubChem) and 
+peer-reviewed engineering articles. 
+
+I remain entirely accountable for the scientific accuracy, referencing, and graphic interpretation submitted within this repository.
+====================================================
