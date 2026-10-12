@@ -1,0 +1,26 @@
+AI USE DISCLOSURE 
+
+Course: CHEM 13 (Lecture)
+Assignment: Asynchronous Activity No. 2: One Molecule, Four Representations: From Molecular Formula to Bond-Line Structure
+Student Name: Alexa Angela L. Cantes
+
+
+1. AI TOOL USED
+
+Tool Name: ChatGPT (OpenAI)
+
+
+2. SPECIFIC APPLICATIONS AND WORKFLOW
+
+I utilized ChatGPT as a learning and tutorial support tool in full alignment with the CHEM 13 syllabus parameters. The AI was used for the following tasks:
+
+- Tutorial Comprehension: I used ChatGPT to supplement and clarify the provided Ketcher Quick-Start Tutorial found in Appendix B of the activity guidelines. 
+
+- Step-by-Step Guidance: I prompted the AI to break down the technical instructions and walk me through the digital chemical structure drawing process step-by-step to ensure complete understanding of the software workflow.
+
+
+3. INDEPENDENT VERIFICATION & ETHICAL COMPLIANCE
+
+As required by assignment policies, I independently constructed every chemical representation—from molecular formula to Lewis structure, condensed structural formula, and Ketcher bond-line structure—relying on my own chemical understanding. 
+
+I have manually reviewed and verified all final chemical representations across the 10 assigned molecules and 5 bonus problems to ensure accuracy in atom connectivity, proper valence counts, and structural consistency. I remain entirely accountable for the final scientific accuracy of the portfolio submitted within this repository.
